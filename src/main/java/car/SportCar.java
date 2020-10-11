@@ -6,4 +6,14 @@ public class SportCar {
     public static void main(String[] args) {
 
     }
+    int y;
+    int f;
+
+    public int getY() {
+        return y;
+    }
+
+    public int getF() {
+        return f;
+    }
 }
